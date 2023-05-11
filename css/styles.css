@@ -888,5 +888,3 @@ body {
   background-image: url(../images/icons.svg#icon-vector);
   display: inline-block;
 }
-.checkbox-input:checked + .checkbox-style::after {
-}
